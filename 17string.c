@@ -3,7 +3,7 @@ Eg:
 Input String:
 India Is My Country
 Output String:
-india is my country
+india is my country 
 
 AUTHOUR:MAYURI NARAYAN DIGHE.
 BATCH:122_PPA7..*/
